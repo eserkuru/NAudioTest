@@ -1,0 +1,13 @@
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\bin\Debug\NAudioTest.exe.config
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\bin\Debug\NAudioTest.exe
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\bin\Debug\NAudioTest.pdb
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\bin\Debug\NAudio.dll
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\bin\Debug\NAudio.xml
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\obj\Debug\NAudioTest.csprojAssemblyReference.cache
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\obj\Debug\NAudioTest.Form1.resources
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\obj\Debug\NAudioTest.Properties.Resources.resources
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\obj\Debug\NAudioTest.csproj.GenerateResource.cache
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\obj\Debug\NAudioTest.csproj.CoreCompileInputs.cache
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\obj\Debug\NAudioTest.csproj.CopyComplete
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\obj\Debug\NAudioTest.exe
+C:\Users\eser.kuru\source\repos\NAudioTest\NAudioTest\obj\Debug\NAudioTest.pdb
